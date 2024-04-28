@@ -1,4 +1,7 @@
+![DALL·E 2024-04-28 20 32 55 - A digital artwork of a muscular woman acting as a CrossFit coach with cyberpunk elements  She appears partly robotic, featuring visible mechanical joi](https://github.com/scaryPonens/wod_bot/assets/165761/ecdf37fd-e25b-489f-8b0e-16362a54c865)
+
 # wod_bot
+
 Snarky CrossFit coach who gives you random WODs scraped from the CrossFit website
 
 ---
