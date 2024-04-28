@@ -30,3 +30,6 @@ Then you simply need to install the required python dependencies and run the bot
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+# Example
+![Screenshot 2024-04-28 at 8.55.47 PM.png](Screenshot%202024-04-28%20at%208.55.47%E2%80%AFPM.png)
