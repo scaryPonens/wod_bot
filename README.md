@@ -1,4 +1,4 @@
-![DALL·E 2024-04-28 20 32 55 - A digital artwork of a muscular woman acting as a CrossFit coach with cyberpunk elements  She appears partly robotic, featuring visible mechanical joi](https://github.com/scaryPonens/wod_bot/assets/165761/ecdf37fd-e25b-489f-8b0e-16362a54c865)
+<img width="400" alt="DALL·E 2024-04-28 20 32 55 - A digital artwork of a muscular woman acting as a CrossFit coach with cyberpunk elements  She appears partly robotic, featuring visible mechanical joi" src="https://github.com/scaryPonens/wod_bot/assets/165761/ecdf37fd-e25b-489f-8b0e-16362a54c865" />
 
 # wod_bot
 
@@ -32,4 +32,4 @@ streamlit run app.py
 ```
 
 # Example
-![Screenshot 2024-04-28 at 8.55.47 PM.png](Screenshot%202024-04-28%20at%208.55.47%E2%80%AFPM.png)
+<img width="975" alt="Screenshot 2024-04-28 at 8 59 14 PM" src="https://github.com/scaryPonens/wod_bot/assets/165761/6f2a5598-3297-4859-a7be-7dfc1f00180f">
